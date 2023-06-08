@@ -1,3 +1,10 @@
+<?php
+
+echo "Hello world!";
+
+
+?>
+
 <!doctype html>
 <html lang="en">
     
